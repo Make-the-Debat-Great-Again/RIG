@@ -1,0 +1,12 @@
+spacy
+pandas
+geopandas
+scikit-learn
+editdistance
+git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git
+owlready2
+squarify
+stop-words
+
+
+

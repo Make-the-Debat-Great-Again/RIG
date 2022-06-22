@@ -1,0 +1,5 @@
+resources/classification_model
+resources/classif_model_theme_text
+__pycache__/
+.idea
+LA_TRANSITION_ECOLOGIQUE.csv
